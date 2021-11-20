@@ -40,7 +40,7 @@
                 <a class="navbar-brand" href="{{
                  url('/') }}">
                       {{ config('app.name',
-                      'Laravel') }}
+                      'トップへ') }}
                 </a>
                 <button class="navbar-toggler"
                 type="button" data-toggle="collapse" data-
